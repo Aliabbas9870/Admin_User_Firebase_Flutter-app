@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014496627376",
+    "project_id": "fir-project-job",
+    "storage_bucket": "fir-project-job.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014496627376:android:47dd865be0c8ef898f4975",
+        "android_client_info": {
+          "package_name": "com.example.job_search_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014496627376-7j94m90an3f8mef3em4b4f9rp18gntjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ouLhSFg7q_xfCMns5cPQVl3ZlExBKwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014496627376-7j94m90an3f8mef3em4b4f9rp18gntjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
